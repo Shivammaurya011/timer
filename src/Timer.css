@@ -1,0 +1,22 @@
+
+.timer{
+    position: relative;
+    margin-top: 50px;
+    margin-left: 30%;
+    height: 200px;
+    width: 600px;
+    background-color: aqua;
+    border-radius: 5px;
+}
+.mainDiv{
+    position: absolute;
+    width: 100%;
+}
+.subDiv{
+    display: inline-block;
+    background-color: #9af1f1;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 6px;
+    width: 80px;
+}
